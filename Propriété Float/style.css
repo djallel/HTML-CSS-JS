@@ -1,0 +1,30 @@
+.left
+{
+    height: 45px;
+    width: 200px;
+    background-color: blue;
+    float: left;
+}
+.right
+{
+    height: 500px;
+    width: 150px;
+    background-color: red;
+    float: right;
+}
+header
+{
+    height: 100px;
+    background-color: yellow;
+}
+div
+{
+    height: 100px;
+    background-color: brown;
+}
+footer
+{
+    height: 100px;
+    background-color: grey;
+    clear: both; /*importante dans css quand on fait float*/
+}
