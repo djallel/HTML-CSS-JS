@@ -31,18 +31,19 @@ h4
 {
     font-size: 24px;
 }
-p
+p /*p comme paragraphe*/
 {
     line-height: 20px;
     color: #777;
 }
 ul
 {
-    list-style: none;
+    list-style: none; /* pour enlever les boulette des listes, genre les points ta3 word,*/
 }
 a
 {
-    text-decoration: none;
+    text-decoration: none; /*sert à enlever la décoration par defaut,genre si le texte est souligner, et bien il ne
+    sera plus souligné */
     color: #444;
 }
 .wrapper
@@ -84,7 +85,7 @@ header nav
 header nav ul li
 {
     float:left;
-    display: inline-block;
+    display: inline-block; /*pour afficher tout dans la même ligne*/
 }
 header nav ul li a
 {
