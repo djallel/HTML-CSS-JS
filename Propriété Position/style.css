@@ -10,4 +10,7 @@
     height: 500px;
     width: 150px;
     background-color: red;
+    position: relative; /*( donne le pouvoir d'utilisé top buttom left right') */
+    top : 100px; /*elle sera espacé de du haut de 100px*/
+    left: 30px; /*elle sera espacé de du gauche de 30px*/
 }
